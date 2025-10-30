@@ -39,6 +39,7 @@ x=4568
 
 ### Тестирование:
 
+<img width="329" height="87" alt="Code_AC08xD2FJ0" src="https://github.com/user-attachments/assets/0588aa05-f4a1-4c8a-a132-330777b1fe49" />
 
 ---
 ### Задание 4
@@ -60,6 +61,7 @@ x=-5
 2. Вернуть true если число > 0, иначе false
 
 ### Тестирование:
+<img width="508" height="96" alt="Code_87aNIf3Qe1" src="https://github.com/user-attachments/assets/874359fb-76fe-430a-8707-59763bf3e223" />
 
 ---
 ### Задание 6
@@ -81,6 +83,7 @@ x=’q’
 2. Вернуть результат проверки
 
 ### Тестирование:
+<img width="514" height="72" alt="Code_f3i2Qb2hfD" src="https://github.com/user-attachments/assets/d451612c-7981-42e5-ac10-b613bc5e3008" />
 
 ---
 ### Задание 8
@@ -103,6 +106,7 @@ a=2 b=15
 3. Вернуть true если одно делится на другое
 
 ### Тестирование:
+<img width="586" height="100" alt="Code_q4U0gvSJZH" src="https://github.com/user-attachments/assets/3a2b3c28-b1a6-4471-8184-60ca50b68ab8" />
 
 ---
 ### Задание 10
@@ -127,6 +131,7 @@ a=2 b=15
 3. Вернуть сумму этих цифр
 
 ### Тестирование:
+<img width="382" height="182" alt="Code_G4LKu0I9tX" src="https://github.com/user-attachments/assets/56bddf70-9116-4aad-b41e-7384deaff5cc" />
 
 ---
 ## Блок заданий: 2
@@ -152,6 +157,8 @@ x=8  y=2
 3. Иначе выполнить деление и вернуть результат
 
 ### Тестирование:
+<img width="341" height="96" alt="Code_qfl9yX2LjG" src="https://github.com/user-attachments/assets/428eb3b5-f5c3-4ec5-97a8-3e9d63ada08e" />
+<img width="532" height="128" alt="Code_8H8rlxQqNU" src="https://github.com/user-attachments/assets/ccd881ad-a5eb-4a99-91ea-88414a57bb80" />
 
 ---
 ### Задание 4
@@ -180,6 +187,7 @@ x=4  y=4
 4. Иначе вернуть "x == y"
 
 ### Тестирование:
+<img width="434" height="106" alt="Code_nTSV6xfhPV" src="https://github.com/user-attachments/assets/04d68049-c8c4-4927-9ab0-e6cbc271e433" />
 
 ---
 ### Задание 6
@@ -204,6 +212,7 @@ x=8  y=-1  z=4
 4. Вернуть true если любое условие выполняется
 
 ### Тестирование:
+<img width="454" height="119" alt="Code_nzWcqgBrFo" src="https://github.com/user-attachments/assets/88bf6c33-af4b-47b3-9f94-ebd8c07a50a0" />
 
 ---
 ### Задание 8
@@ -239,6 +248,7 @@ x=44
 4. Иначе использовать "лет"
 
 ### Тестирование:
+<img width="345" height="74" alt="Code_8fCLgA4y00" src="https://github.com/user-attachments/assets/4efd2d89-a085-4b4e-9ec3-57881f217afe" />
 
 ---
 ### Задание 10
@@ -270,6 +280,8 @@ x=18
 3. Для других значений вывести сообщение об ошибке
 
 ### Тестирование:
+<img width="393" height="74" alt="Code_G5w4wk8X7b" src="https://github.com/user-attachments/assets/7008e5dd-b6c8-4148-b7e2-ee2ff58fc17b" />
+<img width="399" height="69" alt="Code_8zlIq5rTgF" src="https://github.com/user-attachments/assets/915b764b-0732-47e0-b034-12951dc595fd" />
 
 ---
 ## Блок заданий: 3
@@ -289,6 +301,7 @@ x=5
 3. Добавлять пробелы между числами (кроме последнего)
 
 ### Тестирование:
+<img width="427" height="69" alt="Code_5V90MssYZe" src="https://github.com/user-attachments/assets/bf3ffc74-4631-412b-b541-ee9560d36dff" />
 
 ---
 ### Задание 4
@@ -310,6 +323,7 @@ y=5
 3. Вернуть полученное значение
 
 ### Тестирование:
+<img width="399" height="99" alt="Code_t0VHzbP1rK" src="https://github.com/user-attachments/assets/4f660527-0633-4d2c-a70d-3e3d4cb1e396" />
 
 ---
 ### Задание 6
@@ -336,6 +350,8 @@ x=1211
 4. Если найдена отличающаяся цифра - вернуть false
 
 ### Тестирование:
+<img width="415" height="79" alt="Code_ECQUjicqrc" src="https://github.com/user-attachments/assets/6554dced-4780-4a05-b089-e914b6cd4f09" />
+<img width="366" height="76" alt="Code_ww12jgRhqt" src="https://github.com/user-attachments/assets/9352dd7d-4f20-40c6-8e35-b92da5cec1b8" />
 
 ---
 ### Задание 8
@@ -365,6 +381,7 @@ x=4
 3. Перейти на новую строку
 
 ### Тестирование:
+<img width="352" height="173" alt="Code_NCO9QRvhJb" src="https://github.com/user-attachments/assets/87a52872-0c93-47d3-949b-ed767d5ac86c" />
 
 ---
 ### Задание 10
@@ -392,6 +409,7 @@ x=4
 4. При угадывании вывести поздравление и статистику
 
 ### Тестирование:
+<img width="351" height="199" alt="Code_aQHkysBgav" src="https://github.com/user-attachments/assets/40dcc455-078f-441f-ae4f-cc9c07bc78cb" />
 
 ---
 ## Блок заданий: 4
@@ -413,6 +431,7 @@ x=2
 3. Если элемент не найден, вернуть -1
 
 ### Тестирование:
+<img width="451" height="145" alt="Code_CNWApn8mdU" src="https://github.com/user-attachments/assets/959bc82c-87e3-41d2-95eb-a4a7dfa59300" />
 
 ---
 ### Задание 4
@@ -437,6 +456,7 @@ pos=3
 6. Вернуть новый массив
 
 ### Тестирование:
+<img width="379" height="180" alt="Code_GDPnoz8P1J" src="https://github.com/user-attachments/assets/3476bdbc-c457-4a7f-b07e-fd99a40c8c68" />
 
 ---
 ### Задание 6
@@ -455,6 +475,7 @@ arr=[1,2,3,4,5]
 3. Сдвигать указатели к центру
 
 ### Тестирование:
+<img width="385" height="113" alt="Code_iX7u7BCz9N" src="https://github.com/user-attachments/assets/12d60434-28e9-418b-ba40-57996735dc1c" />
 
 ---
 ### Задание 8
@@ -476,6 +497,7 @@ arr2=[7,8,9]
 4. Вернуть новый массив
 
 ### Тестирование:
+<img width="405" height="197" alt="Code_ZqOWoVZ4Cz" src="https://github.com/user-attachments/assets/3493dd88-a38b-41ad-b76d-667109ee370d" />
 
 ---
 ### Задание 10
@@ -495,5 +517,6 @@ arr=[1,2,-3,4,-2,2,-5]
 4. Вернуть новый массив и его размер
 
 ### Тестирование:
+<img width="449" height="119" alt="Code_eUvapVpH9e" src="https://github.com/user-attachments/assets/ce581982-2842-404e-8762-46d82549e72f" />
 
 ---
